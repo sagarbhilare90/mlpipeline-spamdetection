@@ -1,0 +1,4 @@
+/MLOPSVENV
+MLOPSVENV/
+__pycache__/
+*.pyc
