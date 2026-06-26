@@ -1,0 +1,19 @@
+2026-06-26 07:20:15,063 - data_ingestion - ERROR - File not found: params.yaml
+2026-06-26 07:20:15,063 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2026-06-26 07:25:34,072 - data_ingestion - ERROR - File not found: params.yaml
+2026-06-26 07:25:34,072 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2026-06-26 07:26:59,260 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-06-26 07:26:59,336 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-26 07:26:59,336 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-26 07:31:19,250 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-06-26 07:31:19,308 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-26 07:31:19,308 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-26 07:31:37,423 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-06-26 07:31:37,475 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-26 07:31:37,475 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-26 07:32:23,997 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-06-26 07:32:24,047 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-26 07:32:24,048 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-26 07:32:28,970 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-06-26 07:32:29,025 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-26 07:32:29,025 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
